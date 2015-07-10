@@ -1,0 +1,6 @@
+c:\users\dell user\documents\visual studio 2013\Projects\TimeAndClassifications\TimeAndClassifications\bin\Debug\TimeAndClassifications.exe.config
+c:\users\dell user\documents\visual studio 2013\Projects\TimeAndClassifications\TimeAndClassifications\bin\Debug\TimeAndClassifications.exe
+c:\users\dell user\documents\visual studio 2013\Projects\TimeAndClassifications\TimeAndClassifications\bin\Debug\TimeAndClassifications.pdb
+c:\users\dell user\documents\visual studio 2013\Projects\TimeAndClassifications\TimeAndClassifications\obj\Debug\TimeAndClassifications.exe
+c:\users\dell user\documents\visual studio 2013\Projects\TimeAndClassifications\TimeAndClassifications\obj\Debug\TimeAndClassifications.pdb
+C:\Users\Dell User\Documents\Visual Studio 2013\Projects\TimeAndClassifications\TimeAndClassifications\obj\Debug\TimeAndClassifications.csprojResolveAssemblyReference.cache
